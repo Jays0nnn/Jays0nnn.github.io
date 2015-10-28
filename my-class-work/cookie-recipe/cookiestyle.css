@@ -1,0 +1,15 @@
+.header {
+
+	text-align: center;
+	padding: 190px 250px;
+	margin-bottom: 15px;
+	border-bottom: 10px solid #e0e0df;
+	background: linear-gradient( black, transparent 30%),
+							url('https://upload.wikimedia.org/wikipedia/commons/b/b9/Chocolate_Chip_Cookies_-_kimberlykv.jpg');
+	background						
+}
+.header h1 {
+
+	text-align: center;
+	color: white;
+}

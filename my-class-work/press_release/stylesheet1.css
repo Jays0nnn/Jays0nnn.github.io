@@ -1,0 +1,31 @@
+*{
+  text-align: center;
+}
+body {
+  background-image: url('http://sanfrancisco.impacthub.net/wp-content/uploads/sites/100/2015/04/GA_logo.png');
+  background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: 300px 300px;  
+  
+}
+.mainheader h1 {
+  
+
+  font-family: helvetica;
+  color: ;
+  
+}
+
+
+
+
+.list,.body,.mainheader h3 {
+  
+  font-weight: bold;
+  font-family: helvetica;
+}
+
+.list ul li {
+  display: inline;
+}
