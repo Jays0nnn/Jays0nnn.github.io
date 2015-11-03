@@ -1,0 +1,270 @@
+body {
+
+	background-color: #eeeff0;
+	margin: 0px;
+}
+
+.mainheader {
+
+	background-image: #eeeff0;
+	text-align: center;
+	padding: 170px 250px 50px 250px;
+	margin-bottom: 20px;
+
+}
+
+.mainheader h1 {
+
+	font-family: Impact, Sans-Serif;
+	font-size: 70px;
+	font-weight: bold;
+	margin-bottom: 0px;
+	margin-top: 0px;
+
+
+}
+.mainheader h5 {
+
+	font-family: Georgia, Serif;
+	font-size: 30px;
+	border: solid 2px;
+	padding: 10px 5px 10px 5px;
+	margin-top: 2px;
+	margin-bottom: 100px;
+
+}
+
+.mainheader a{
+	text-decoration: none;
+	font-family: Georgia, Serif;
+	color: black;
+}
+.mainheader p {
+
+	display: inline;
+	padding: 60px;
+	font-family: Georgia, Serif;
+	font-weight: bold;
+	font-size: 20px;
+	border: dotted 1px;
+	padding: 15px 20px 15px 20px;
+	margin: 0 50px 0 50px;
+
+}
+
+.mainheader p:hover {
+
+	background-color: #999b9d;
+
+}
+
+.maingheader p,a:hover {
+
+	color: white;
+}
+/****************************************************
+Aboutme
+*****************************************************/
+
+
+.heading {
+
+	background-color: #eeeff0;
+	text-align: center;
+	padding: 380px 250px 500px 250px;
+	margin-bottom: 20px;
+
+}
+.heading img {
+
+	width: 830px;
+	height: 800px;
+	border-radius: 20px;
+	border: dashed 1px black;
+}
+
+.heading h1 {
+
+	font-family: Impact, Sans-Serif;
+	font-size: 250px;
+	font-weight: bold;
+	margin-bottom: 0px;
+	margin-top: 10px;
+	color: #999b9d;
+
+
+}
+.heading h5 {
+
+	font-family: Garamond, Times New Roman, Serif;
+	font-size: 80px;
+	padding: 80px 40px 80px 40px;
+	margin: 20px 50px 100px 50px;
+	border-bottom: solid 1px black;
+
+}
+
+.heading a{
+	text-decoration: none;
+	font-family: Georgia, Serif;
+	color: black;
+}
+.heading p {
+
+	display: inline;
+	padding: 60px;
+	font-family: Georgia, Serif;
+	font-weight: bold;
+	font-size: 70px;
+	border: dotted 1px;
+	padding: 50px 50px 50px 50px;
+	margin: 100px 50px 0 50px;
+
+}
+
+.heading p:hover {
+
+	background-color: #999b9d;
+
+}
+
+/****************************************************
+Resume
+*****************************************************/
+
+.title {
+
+	background-color: #eeeff0;
+	padding: 20px 250px 50px 250px;
+	margin-bottom: 20px;
+
+}
+
+
+
+.title h1 {
+
+	font-family: Impact, Sans-Serif;
+	font-size: 50px;
+	font-weight: bold;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	color: #999b9d ;
+
+}
+
+.title h3 {
+
+	font-size: 20px;
+	font-family: Garamond, Times New Roman, Serif;
+	border-bottom: 1px solid black;
+	padding: 0 0 10px 0;
+	margin: 40px 0 10px 0;
+
+
+
+}
+
+
+.title h5 {
+
+	display: block;
+	padding: 0 0 0 0;
+	font-family: Garamond, Times New Roman, Serif;
+	margin: 0 0 0 0;
+}
+
+
+.title p {
+
+	font-family: Garamond, Times New Roman, Serif;
+	font-size: 15px;	
+	padding: 0 0 0 20px;
+}
+
+.title li {
+
+	font-family: Garamond, Times New Roman, Serif;
+	font-size: 15px;
+	line-height: 20px;
+}
+
+.edu  {
+
+	display: inline;	
+}
+.nav a{
+
+	text-decoration: none;
+	font-family: Georgia, Serif;
+	color: black;
+	text-align: center;
+}
+.nav p {
+
+	display: inline;
+	padding: 60px;
+	font-family: Georgia, Serif;
+	font-weight: bold;
+	font-size: 20px;
+	border: dotted 1px black;
+	padding: 15px 20px 15px 20px;
+	margin: 0 0 0 250px;
+
+}
+
+.nav p:hover {
+
+	background-color: #999b9d;
+
+}
+
+.nav p,a:hover {
+
+	color: white;
+}
+
+
+/****************************************************
+footer
+*****************************************************/
+
+.footer {
+
+	margin-top: 130px;
+	padding: 20px 250px 20px 250px;
+	background-color: #6a6a6c;
+	text-align: center;
+
+}
+
+.footer h6 {
+
+	display: inline;
+	padding: 2px 20px 2px 30px;
+	font-size: 13px;
+	color: white;
+	font-family:Georgia, Serif;
+
+}
+
+.footers {
+
+	padding: 50px 50px 50px 50px;
+	background-color: #6a6a6c;
+	text-align: center;
+	margin-bottom: 20px;
+
+}
+
+.footers h6 {
+
+	display: inline;
+	padding: 2px 30px 2px 30px;
+	font-size: 60px;
+	color: white;
+	font-family:Georgia, Serif;
+
+
+}
+
