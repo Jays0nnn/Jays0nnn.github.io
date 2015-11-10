@@ -1,0 +1,330 @@
+* {
+
+	font-family: 'Lato', sans-serif;
+	font-weight: normal;
+
+}
+
+body {
+
+	margin: 0 auto;
+}
+
+/****************************************************************
+mainheader
+****************************************************************/
+
+
+.wrapper {
+
+	text-align: left;
+	margin: 0;
+	padding: 30px 0 0 30px;
+	width: 1000px;
+}
+
+.mainheader h1 {
+
+	font-family: 'Lato', sans-serif;
+	font-weight: normal;
+	color: red;
+	margin: 50px 0 0 0px;
+	font-size: 60px;
+	display: inline-block;
+}
+
+.mainheader h2 {
+
+	display: inline-block;
+	font-family: 'Lato', sans-serif;
+	font-weight: normal;
+	margin: 10px 0 5px 10px;
+	font-size: 30px;
+}
+
+
+/****************************************************************
+nav
+****************************************************************/
+
+.nav a h3 {
+
+	display: inline-block;
+	color: white;
+	font-size: 18px;
+	background-color: black;
+	font-family: 'Lato', sans-serif;
+	font-weight: normal;
+	padding: 20px 40px 20px 45px;
+	text-decoration: none;
+
+}
+
+.nav h3:hover {
+
+	background-color: #dddddd;
+	color: black;
+}
+
+
+/****************************************************************
+Articles
+****************************************************************/
+
+
+.articles {
+
+	float: left;
+	width: 60%;
+}
+
+.articles h2 {
+
+	font-size: 30px;
+	color: #dddddd;
+	margin: 50px 0 0px 0px;
+
+}
+
+
+.articles h1 {
+
+	padding: 0px 0 0 0;
+	margin: 10px 0px 10px 0px;
+}
+
+.articles img {
+
+	width: 670px;
+	height: 200px;
+}
+
+.articles p {
+
+	margin: 30px 0px 0 0;
+	display: inline-block;
+	padding: 0 0px 0 0 ;
+	width: 111%;
+}
+
+.articles a {
+
+	text-align: right;
+	color: red;
+	text-decoration: none;
+}
+
+.articles h5 {
+
+	border-bottom: 1px #dddddd solid;
+	padding: 0 0 20px 0;
+	width: 111%;
+	font-weight: bold;
+}
+
+
+
+/****************************************************************
+About us
+****************************************************************/
+
+.about {
+
+	width: 30%;
+	float: right;
+	border-bottom: 1px solid #dddddd;
+	padding: 0 0 20px 0;
+}
+
+.about h1 {
+
+	margin: 50px 0 5px 0 ;
+	font-size: 20px;
+	font-weight: bold;
+	color: grey;
+
+
+} 
+
+.about p {
+
+	display: inline-block;
+	color: grey;
+	margin: 20px 0 20px 0px;
+	line-height: 25px;
+	font-weight: normal;
+	font-size: 15px;
+
+}
+
+.about a {
+
+	text-decoration: none;
+	color:red;
+	font-weight: bold;
+	margin: 100px 0 0px 250px;
+	padding: 0 0 0px 0;
+}
+
+/****************************************************************
+Ad
+****************************************************************/
+
+
+.ad img {
+
+	width: 30%;
+	height: 250px;
+	float: right;
+	border-bottom: solid #dddddd 1px;
+	margin: 20px 0 10px 0;
+	padding: 0 0 20px 0;
+}
+
+/****************************************************************
+Popular Posts
+****************************************************************/
+
+.popular {
+
+	width: 30%;
+	float: right;
+	margin: 0px 30px 0 0;
+	padding: 2px 7px 20px 0;
+	
+}
+
+.popular ul {
+
+	color: grey;
+	font-weight: bold;
+	margin: 20px 0 200px 0;
+
+
+} 
+
+.popular li {
+
+	margin: 3px 0px 0 2.5em;
+	font-size: 14px;
+
+}
+
+.popular a {
+
+	color: red;
+	margin: 15px 0px 0 0px;
+	padding: 0 0 0 10px;
+	text-decoration: none;
+}
+
+
+/****************************************************************
+About us
+****************************************************************/
+
+.articles1 {
+
+	float: left;
+	width: 60%;
+}
+
+.articles1 h2 {
+
+	font-size: 28px;
+	color: #dddddd;
+	margin: 50px 0 0px 0px;
+
+}
+
+
+.articles1 h1 {
+
+	padding: 0px 0 0 0;
+	margin: 10px 0px 10px 0px;
+}
+
+.articles1 img {
+
+	width: 670px;
+	height: 200px;
+	margin: 0 0 10px 0;
+}
+
+.articles1 p {
+
+	margin: 10px 0px 0 0;
+	display: inline-block;
+	padding: 0 0px 0 0 ;
+	width: 111%;
+}
+
+.articles1 a {
+
+	text-align: right;
+	color: red;
+	text-decoration: none;
+}
+
+.articles1 h5 {
+
+	border-bottom: 1px #dddddd solid;
+	padding: 0 0 20px 0;
+	width: 111%;
+	font-weight: bold;
+}
+
+#s { 
+
+	color: #dddddd; 
+	font-size: 70px;
+	line-height: 20px;
+	margin: 10px 0 0 0;
+}
+
+/****************************************************************
+Footer
+****************************************************************/
+
+.footer {
+
+	display: inline-block;
+}
+.footer a h5 {
+
+	color: #dddddd;
+	font-family: 'Lato', sans-serif;
+	font-weight: normal;
+
+
+}
+
+.footer a h3 {
+
+	display: inline-block;
+	color: red;
+	font-family: 'Lato', sans-serif;
+	font-weight: normal;
+	padding: 10px 2px 0 0px;
+	text-decoration: none;
+	font-size: 13px;
+}
+
+.footer a h3:hover {
+	background-color: white;
+	color: black;
+}
+
+span {
+
+	padding: 0px;
+}
+
+.footer p {
+
+	color: #dddddd;
+}
+
+.nav a h3:hover {
+	color: black;
+}
