@@ -122,6 +122,10 @@ Articles
 	font-weight: bold;
 }
 
+.articles a:hover {
+	color: #dddddd;
+}
+
 
 
 /****************************************************************
@@ -165,6 +169,11 @@ About us
 	margin: 100px 0 0px 250px;
 	padding: 0 0 0px 0;
 }
+
+.about a:hover {
+	color: #dddddd;
+}
+
 
 /****************************************************************
 Ad
@@ -218,9 +227,12 @@ Popular Posts
 	text-decoration: none;
 }
 
+.popular a:hover {
+	color: #dddddd;
+}
 
 /****************************************************************
-About us
+Article #2
 ****************************************************************/
 
 .articles1 {
@@ -274,6 +286,16 @@ About us
 	font-weight: bold;
 }
 
+.articles1 a:hover {
+	color: #dddddd;
+}
+
+/****************************************************************
+Drop Caps
+****************************************************************/
+
+
+
 #s { 
 
 	color: #dddddd; 
@@ -315,11 +337,6 @@ Footer
 	color: black;
 }
 
-span {
-
-	padding: 0px;
-}
-
 .footer p {
 
 	color: #dddddd;
@@ -327,4 +344,12 @@ span {
 
 .nav a h3:hover {
 	color: black;
+}
+
+/****************************************************************
+footer nav dividers
+****************************************************************/
+span {
+
+	padding: 0px;
 }
