@@ -1,3 +1,5 @@
+// Great job on this. Your solution works well!
+
 $(document).ready(function (){
 
 	var total = 0;
@@ -25,6 +27,7 @@ $(document).ready(function (){
 
 	$('#a10').click(ten)
 
+	// for function name might be best to be more clear such as "addTen"
 	function ten () {
 		total += 10;
 		$('#out').text(total);
@@ -52,6 +55,7 @@ $(document).ready(function (){
 
 	$('#n20').click(mtwenty)
 
+	// best to use camelcase when naming variables and functions in javascript so "minusTwenty"
 	function mtwenty () {
 		total -= 20;
 		$('#out').text(total);
