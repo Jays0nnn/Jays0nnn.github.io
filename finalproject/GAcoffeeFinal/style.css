@@ -1,0 +1,1115 @@
+/****************************************
+Our Story
+*****************************************/
+
+.jumbotron {
+
+	text-align: center;
+	background-color: #f6f5f3;
+	font-size: 4px;
+	height: 60%;
+	box-shadow: 0px 0px 60px 0px;
+
+
+
+
+}
+
+.jumbotron img {
+
+	width: 80%;
+	height: 60%;
+	margin-top: 5em;
+	position: absolute;
+	top: 7em;
+	left: 30em;
+	margin-bottom: 0em;
+
+
+
+}
+.Our {
+
+	background-color: #f6f5f3;
+	padding-bottom: 10em;
+	text-align: center;
+
+}
+
+.Our h1 {
+
+	font-size: 12em;
+	margin-top: 0em;
+	font-family: 'Oswald', sans-serif;
+	padding-top: 1em;
+	
+}
+
+.our p {
+
+	font-size: 4em;
+	margin: 0em 10em;
+	padding-bottom: 1em;
+	border-bottom: solid 1px black;
+	font-family: 'Oswald', sans-serif;
+	font-weight: normal;
+}
+
+@media screen and (max-width: 1060px) and (min-width: 1025px){
+	body {
+	font-size: 4px;
+	padding: 2em 2em 30em 2em;
+
+}
+
+.wrapper {
+
+	margin: 5em 72.4em 10em 70em;
+	background-color: #f6f5f3;
+	overflow: hidden;
+	box-shadow: 0px 0px 60px 0px;
+
+}
+
+
+.ourstory {
+
+	
+	float: left;
+	background-image: url('images/cafeshop2.jpg');
+	-webkit-filter: grayscale(100%);
+	background-size: 84em 40.1em;
+	background-repeat: no-repeat;
+	width: 59%;
+	height:	33%;
+
+}
+
+
+.menu {
+
+	background-image: url('images/rustico1.jpg');
+	-webkit-filter: grayscale(100%);
+	background-size: contain;
+	background-repeat: no-repeat;
+	width: 40%;
+	height:	40%;
+	float: left;
+	margin-right: 1em;
+	margin-left: 0em;
+
+
+
+
+}
+
+
+.sub {
+
+	
+	float: left;
+	background-image: url('images/subscription.jpg');
+	-webkit-filter: grayscale(100%);
+	background-size: 50em 45em;
+	background-repeat: no-repeat;
+	background-position: center;
+	width: 50.1%;
+	height:	35%;
+	margin-left: 3em;
+
+
+
+}
+
+
+.hours {
+
+	background-image: url('images/hours.jpg');
+	background-size: 30em 35em;
+	background-repeat: no-repeat;
+	background-position: center;
+	width: 20%;
+	height:	29.2%;
+	position: absolute;
+	top: 100.2em;
+	left: 109em;
+}
+
+
+.brew {
+
+	background-image: url('images/espresso.jpg');
+	-webkit-filter: grayscale(100%);
+	background-size: 85em 70em;
+	background-position: center;
+	background-repeat: no-repeat;
+	width: 17%;
+	height:	31.2%;
+	position: absolute;
+	top: 90.1em;
+	left: 72em;
+
+}
+
+.locations {
+
+	float: left;
+	background-image: url('images/locations1.jpg');
+	-webkit-filter: grayscale(100%);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 55em 48em;
+	width: 35.6%;
+	height: 33.1%;
+	padding: 0em 5.5em 0em 5.5em;
+	margin-left: 80.7em;
+}
+
+
+
+
+.logo {
+	padding: 5.5em;
+	height: 10.9%;
+	width: 13.48%;
+	background-image: url('images/logo.jpg');
+	background-size:cover;
+	background-repeat: no-repeat;
+	background-position: 50% 43%;
+	position: absolute;
+	top: 55.5em;
+	left: 76em;
+
+}
+
+.menu h1 {
+
+	display: none;
+	font-size: 2.5em;
+	background-color: #f6f5f3;
+	padding: .8em;
+	position: absolute;
+	bottom: 47.5em;
+	left: 40em;
+	color: black;
+}
+
+.ourstory h1 {
+
+	display: none;
+	font-size: 2.5em;
+	background-color: #f6f5f3;
+	padding: .8em;
+	position: absolute;
+	top: 2em;
+	left: 52.3em;
+	color: black;
+}
+
+.sub h1 {
+
+	display: none;
+	font-size: 2.5em;
+	background-color: #f6f5f3;
+	padding: .8em;
+	position: absolute;
+	bottom: 28em;
+	left: 52.3em;
+	color: black;
+}
+.brew h1 {
+
+	display: none;
+	font-size: 2.5em;
+	background-color: #f6f5f3;
+	padding: .8em;
+	color: black;
+	position: absolute;
+	bottom: 0em;
+	left: 0em;
+}
+
+.locations h1 {
+
+	display: none;
+	font-size: 2.5em;
+	background-color: #f6f5f3;
+	padding: .8em;
+	position: absolute;
+	color: black;
+	right: 40.5em;
+	bottom: 9em;
+}
+
+.zero:hover {
+
+	-webkit-filter:grayscale(0%);
+}
+.mainhead {
+
+	margin: 10em;
+	text-align: center;
+	background-color: #f6f5f3;
+}
+
+.mainhead h1 {
+
+	font-family: arial serif;
+	font-size: 4em;
+}
+
+.lightbox {
+	display: none;
+}
+
+}
+
+
+
+@media screen and (max-width: 1131px) and (min-width: 1061px){
+	body {
+	font-size: 4px;
+	padding: 2em 2em 30em 2em;
+
+}
+
+.wrapper {
+
+	margin: 5em 72.4em 10em 70em;
+	background-color: #f6f5f3;
+	overflow: hidden;
+	box-shadow: 0px 0px 60px 0px;
+
+}
+
+
+.ourstory {
+
+	
+	float: left;
+	background-image: url('images/cafeshop2.jpg');
+	-webkit-filter: grayscale(100%);
+	background-size: 84em 40.1em;
+	background-repeat: no-repeat;
+	width: 59%;
+	height:	33%;
+
+}
+
+
+.menu {
+
+	background-image: url('images/rustico1.jpg');
+	-webkit-filter: grayscale(100%);
+	background-size: contain;
+	background-repeat: no-repeat;
+	width: 40%;
+	height:	40%;
+	float: left;
+	margin-right: 1em;
+	margin-left: 0em;
+
+
+
+
+}
+
+
+.sub {
+
+	
+	float: left;
+	background-image: url('images/subscription.jpg');
+	-webkit-filter: grayscale(100%);
+	background-size: 50em 45em;
+	background-repeat: no-repeat;
+	background-position: center;
+	width: 50.1%;
+	height:	35%;
+	margin-left: 3em;
+
+
+
+}
+
+
+.hours {
+
+	background-image: url('images/hours.jpg');
+	background-size: 30em 35em;
+	background-repeat: no-repeat;
+	background-position: center;
+	width: 20%;
+	height:	29.2%;
+	position: absolute;
+	top: 100.2em;
+	left: 109em;
+}
+
+
+.brew {
+
+	background-image: url('images/espresso.jpg');
+	-webkit-filter: grayscale(100%);
+	background-size: 85em 70em;
+	background-position: center;
+	background-repeat: no-repeat;
+	width: 17%;
+	height:	31.2%;
+	position: absolute;
+	top: 90.1em;
+	left: 72em;
+
+}
+
+.locations {
+
+	float: left;
+	background-image: url('images/locations1.jpg');
+	-webkit-filter: grayscale(100%);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 55em 48em;
+	width: 35.6%;
+	height: 33.1%;
+	padding: 0em 5.5em 0em 5.5em;
+	margin-left: 80.7em;
+}
+
+
+
+
+.logo {
+	padding: 5.5em;
+	height: 10.9%;
+	width: 13.48%;
+	background-image: url('images/logo.jpg');
+	background-size:cover;
+	background-repeat: no-repeat;
+	background-position: 50% 43%;
+	position: absolute;
+	top: 55.5em;
+	left: 76em;
+
+}
+
+.menu h1 {
+
+	display: none;
+	font-size: 2.5em;
+	background-color: #f6f5f3;
+	padding: .8em;
+	position: absolute;
+	bottom: 47.5em;
+	left: 40em;
+	color: black;
+}
+
+.ourstory h1 {
+
+	display: none;
+	font-size: 2.5em;
+	background-color: #f6f5f3;
+	padding: .8em;
+	position: absolute;
+	top: 2em;
+	left: 52.3em;
+	color: black;
+}
+
+.sub h1 {
+
+	display: none;
+	font-size: 2.5em;
+	background-color: #f6f5f3;
+	padding: .8em;
+	position: absolute;
+	bottom: 28em;
+	left: 52.3em;
+	color: black;
+}
+.brew h1 {
+
+	display: none;
+	font-size: 2.5em;
+	background-color: #f6f5f3;
+	padding: .8em;
+	color: black;
+	position: absolute;
+	bottom: 0em;
+	left: 0em;
+}
+
+.locations h1 {
+
+	display: none;
+	font-size: 2.5em;
+	background-color: #f6f5f3;
+	padding: .8em;
+	position: absolute;
+	color: black;
+	right: 40.5em;
+	bottom: 9em;
+}
+
+.zero:hover {
+
+	-webkit-filter:grayscale(0%);
+}
+.mainhead {
+
+	margin: 10em;
+	text-align: center;
+	background-color: #f6f5f3;
+}
+
+.mainhead h1 {
+
+	font-family: arial serif;
+	font-size: 4em;
+}
+
+.lightbox {
+	display: none;
+}
+
+}
+
+@media screen and (max-width: 1179px) and (min-width: 1132px){
+	body {
+
+	font-size: 4px;
+	padding: 2em 2em 10em 2em;
+
+}
+
+.wrapper {
+
+	margin: 5em 72.4em 10em 70em;
+	background-color: #f6f5f3;
+	overflow: hidden;
+	box-shadow: 0px 0px 60px 0px;
+
+}
+
+
+.ourstory {
+
+	
+	float: left;
+	background-image: url('images/cafeshop2.jpg');
+	-webkit-filter: grayscale(100%);
+	background-size: 91em 55.1em;
+	background-repeat: no-repeat;
+	width: 59%;
+	height:	33%;
+
+}
+
+
+.menu {
+
+	background-image: url('images/rustico1.jpg');
+	-webkit-filter: grayscale(100%);
+	background-size: contain;
+	background-repeat: no-repeat;
+	width: 40%;
+	height:	40%;
+	float: left;
+	margin-right: 1em;
+	margin-left: 0em;
+	clear: left;
+
+
+
+
+}
+
+
+.sub {
+
+	
+	float: left;
+	background-image: url('images/subscription.jpg');
+	-webkit-filter: grayscale(100%);
+	background-size: 63em 50em;
+	background-repeat: no-repeat;
+	background-position: center;
+	width: 50.1%;
+	height:	35%;
+	margin-left: 3em;
+
+
+
+}
+
+
+.hours {
+
+	background-image: url('images/hours.jpg');
+	background-size: 35em 40em;
+	background-repeat: no-repeat;
+	background-position: center;
+	width: 20%;
+	height:	31.2%;
+	position: absolute;
+	top: 115.2em;
+	left: 115.3em;
+}
+
+
+.brew {
+
+	background-image: url('images/espresso.jpg');
+	-webkit-filter: grayscale(100%);
+	background-size: 85em 70em;
+	background-position: center;
+	background-repeat: no-repeat;
+	width: 17%;
+	height:	31.2%;
+	position: absolute;
+	top: 110em;
+	left: 72em;
+
+}
+
+.locations {
+
+	float: left;
+	background-image: url('images/locations1.jpg');
+	-webkit-filter: grayscale(100%);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 55em 48em;
+	width: 31.6%;
+	height: 28.1%;
+	padding: 0em 5.5em 0em 5.5em;
+	margin-left: 90.7em;
+}
+
+
+
+
+.logo {
+	padding: 5.5em;
+	height: 15.9%;
+	width: 15.48%;
+	background-image: url('images/logo.jpg');
+	background-size:cover;
+	background-repeat: no-repeat;
+	background-position: 50% 43%;
+	position: absolute;
+	top: 65em;
+	left: 74em;
+
+}
+
+.menu h1 {
+
+	display: none;
+	font-size: 2.5em;
+	background-color: #f6f5f3;
+	padding: .8em;
+	position: absolute;
+	bottom: 45.5em;
+	left: 45em;
+	color: black;
+}
+
+.ourstory h1 {
+
+	display: none;
+	font-size: 2.5em;
+	background-color: #f6f5f3;
+	padding: .8em;
+	position: absolute;
+	top: 2em;
+	left: 52.3em;
+	color: black;
+}
+
+.sub h1 {
+
+	display: none;
+	font-size: 2.5em;
+	background-color: #f6f5f3;
+	padding: .8em;
+	position: absolute;
+	bottom: 24em;
+	left: 72.3em;
+	color: black;
+}
+.brew h1 {
+
+	display: none;
+	font-size: 2.5em;
+	background-color: #f6f5f3;
+	padding: .8em;
+	color: black;
+	position: absolute;
+	bottom: 0em;
+	left: 0em;
+}
+
+.locations h1 {
+
+	display: none;
+	font-size: 2.5em;
+	background-color: #f6f5f3;
+	padding: .8em;
+	position: absolute;
+	color: black;
+	right: 42.5em;
+	bottom: 3.8em;
+}
+
+.zero:hover {
+
+	-webkit-filter:grayscale(0%);
+}
+.mainhead {
+
+	margin: 10em;
+	text-align: center;
+	background-color: #f6f5f3;
+}
+
+.mainhead h1 {
+
+	font-family: arial serif;
+	font-size: 4em;
+}
+
+.lightbox {
+	display: none;
+}
+
+}
+
+
+@media screen and (max-width: 1219px) and (min-width: 1180px){
+
+body {
+
+	font-size: 4px;
+	padding: 2em;
+
+}
+
+.wrapper {
+
+	margin: 25em 42.4em 40em 40em;
+	background-color: #f6f5f3;
+	overflow: hidden;
+	box-shadow: 0px 0px 60px 0px;
+
+}
+
+
+.ourstory {
+
+	
+	float: left;
+	background-image: url('images/cafeshop2.jpg');
+	-webkit-filter: grayscale(100%);
+	background-size: 100em 61.1em;
+	background-repeat: no-repeat;
+	width: 45.9%;
+	height:	30%;
+
+}
+
+
+.menu {
+
+	background-image: url('images/rustico1.jpg');
+	-webkit-filter: grayscale(100%);
+	background-size: contain;
+	background-repeat: no-repeat;
+	width: 28%;
+	height:	35%;
+	float: left;
+	margin-right: 1em;
+	margin-left: 0em;
+	clear: left;
+
+
+
+
+}
+
+
+.sub {
+
+	
+	float: left;
+	background-image: url('images/subscription.jpg');
+	-webkit-filter: grayscale(100%);
+	background-size: 50em 50em;
+	background-repeat: no-repeat;
+	background-position: center;
+	width: 25.1%;
+	height:	35%;
+	margin-left: 1.1em;
+
+
+
+}
+
+
+.hours {
+
+	background-image: url('images/hours.jpg');
+	background-size: 35em 40em;
+	background-repeat: no-repeat;
+	background-position: center;
+	width: 15%;
+	height:	25.2%;
+	position: absolute;
+	top: 82.2em;
+	left: 103.3em;
+}
+
+
+.brew {
+
+	background-image: url('images/espresso.jpg');
+	-webkit-filter: grayscale(100%);
+	background-size: 85em 70em;
+	background-position: center;
+	background-repeat: no-repeat;
+	width: 17%;
+	height:	31.2%;
+	position: absolute;
+	top: 80em;
+	left: 146em;
+
+}
+
+.locations {
+
+	float: left;
+	background-image: url('images/locations1.jpg');
+	-webkit-filter: grayscale(100%);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 55em 45em;
+	width: 21.6%;
+	height: 21.1%;
+	padding: 5.5em;
+	margin-top: 5px;
+	margin-left: 154.7em;
+}
+
+
+
+
+.logo {
+	padding: 5.5em;
+	height: 15.9%;
+	width: 15.48%;
+	background-image: url('images/logo.jpg');
+	background-size:cover;
+	background-repeat: no-repeat;
+	background-position: 50% 43%;
+	position: absolute;
+	top: 85em;
+	left: 44em;
+
+}
+
+.menu h1 {
+
+	display: none;
+	font-size: 2.5em;
+	background-color: #f6f5f3;
+	padding: .8em;
+	position: absolute;
+	bottom: 37.3em;
+	left: 20em;
+	color: black;
+}
+
+.ourstory h1 {
+
+	display: none;
+	font-size: 2.5em;
+	background-color: #f6f5f3;
+	padding: .8em;
+	position: absolute;
+	top: 10em;
+	left: 45.3em;
+	color: black;
+}
+
+.sub h1 {
+
+	display: none;
+	font-size: 2.5em;
+	background-color: #f6f5f3;
+	padding: .8em;
+	position: absolute;
+	bottom: 34.5em;
+	left: 82.3em;
+	color: black;
+}
+.brew h1 {
+
+	display: none;
+	font-size: 2.5em;
+	background-color: #f6f5f3;
+	padding: .8em;
+	color: black;
+	position: absolute;
+	bottom: 0em;
+	left: 0em;
+}
+
+.locations h1 {
+
+	display: none;
+	font-size: 2.5em;
+	background-color: #f6f5f3;
+	padding: .8em;
+	position: absolute;
+	color: black;
+	right: 20em;
+	top: 35em;
+}
+
+.zero:hover {
+
+	-webkit-filter:grayscale(0%);
+}
+.mainhead {
+
+	margin: 10em;
+	text-align: center;
+	background-color: #f6f5f3;
+}
+
+.mainhead h1 {
+
+	font-family: arial serif;
+	font-size: 4em;
+}
+
+.lightbox {
+	display: none;
+}
+
+}
+
+
+@media screen and (max-width: 1280px) and (min-width: 1220px){
+
+body {
+
+	font-size: 4px;
+	padding: 2em;
+
+}
+
+.wrapper {
+
+	margin: 30em 22.4em 20em 20em;
+	background-color: #f6f5f3;
+	overflow: hidden;
+	box-shadow: 0px 0px 60px 0px;
+
+}
+
+
+
+.ourstory {
+
+	
+	float: left;
+	background-image: url('images/cafeshop2.jpg');
+	-webkit-filter: grayscale(100%);
+	background-size: 140em 60em;
+	background-repeat: no-repeat;
+	width: 50.3%;
+	height:	30.3%;
+	margin-left: .4em;
+
+}
+
+
+.menu {
+
+	background-image: url('images/rustico1.jpg');
+	-webkit-filter: grayscale(100%);
+	background-size: contain;
+	background-repeat: no-repeat;
+	width: 23%;
+	height:	35%;
+	float: left;
+	margin-right: 1em;
+	margin-left: 0em;
+	clear: left;
+
+
+
+
+}
+
+
+.sub {
+
+	
+	float: left;
+	background-image: url('images/subscription.jpg');
+	-webkit-filter: grayscale(100%);
+	background-size: 70em 70em;
+	background-repeat: no-repeat;
+	width: 25.1%;
+	height:	40%;
+	margin-left: 1.1em;
+
+
+}
+
+
+.hours {
+
+	background-image: url('images/hours.jpg');
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	width: 30%;
+	height:	28.2%;
+	position: absolute;
+	top: 89.2em;
+	left: 85.3em;
+}
+
+
+.brew {
+
+	background-image: url('images/espresso.jpg');
+	-webkit-filter: grayscale(100%);
+	background-size: 85em 70em;
+	background-position: center;
+	background-repeat: no-repeat;
+	width: 20.8%;
+	height:	35.7%;
+	position: relative;
+	top: 53em;
+	left: 140em;
+
+}
+
+.locations {
+
+	float: left;
+	background-image: url('images/locations1.jpg');
+	-webkit-filter: grayscale(100%);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 70em 55em;
+	width: 24.6%;
+	height: 20.1%;
+	padding: 5.5em;
+	margin-top: 5px;
+	margin-left: 193em;
+}
+
+
+
+
+.logo {
+	padding: 5.5em;
+	height: 20.9%;
+	width: 19.48%;
+	background-image: url('images/logo.jpg');
+	background-size:cover;
+	background-repeat: no-repeat;
+	background-position: 50% 43%;
+	position: absolute;
+	top: 99em;
+	left: 32em;
+
+}
+
+.menu h1 {
+
+	display: none;
+	font-size: 3em;
+	background-color: #f6f5f3;
+	padding: 1em;
+	position: absolute;
+	bottom: 28.3em;
+	left: 20em;
+	color: black;
+}
+
+.ourstory h1 {
+
+	display: none;
+	font-size: 3em;
+	background-color: #f6f5f3;
+	padding: 1em 1em 1em 1em;
+	position: absolute;
+	top: 10em;
+	left: 35.3em;
+	color: black;
+}
+
+.sub h1 {
+
+	display: none;
+	font-size: 3em;
+	background-color: #f6f5f3;
+	padding: 1em 1em 1em 2em;
+	position: absolute;
+	bottom: 25em;
+	left: 71.1em;
+	color: black;
+}
+.brew h1 {
+
+	display: none;
+	font-size: 3em;
+	background-color: #f6f5f3;
+	padding: 1em 1em 1em 1em;
+	color: black;
+	position: absolute;
+	bottom: 0em;
+	left: 0em;
+}
+
+.locations h1 {
+
+	display: none;
+	font-size: 3em;
+	background-color: #f6f5f3;
+	padding: 1em 1em 1em 1em;
+	position: absolute;
+	color: black;
+	right: 12em;
+	top: 33.3em;
+}
+
+.zero:hover {
+
+	-webkit-filter:grayscale(0%);
+}
+
+.mainhead {
+
+	margin: 10em;
+	text-align: center;
+	background-color: #f6f5f3;
+}
+
+.mainhead h1 {
+
+	font-family: arial serif;
+	font-size: 4em;
+}
+
+.lightbox {
+	display: none;
+}
+
