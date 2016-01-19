@@ -145,11 +145,6 @@ Sub Content
 }
 
 
-.d {
-
-	border-right: solid 1px #c6c6c6;
-	margin-top: 10px;
-}
 .create {
 
 	margin-bottom: 25px;
@@ -213,7 +208,7 @@ Footer
 	display:none;
 }
 
-@media only screen and (max-width: 950px){
+@media only screen and (max-width: 950px) and (min-width: 868px){
 	.mainheader {
 		font-size: 16px;	
 		padding: 0 .25em;
@@ -230,34 +225,73 @@ Footer
 @media only screen and (max-width: 867px){
 	body {
 
+	
 		font-size: 16px;
 	}
 
-	.section , .content p , .mainheader a {
+	.mainheader a {
 
 		display: none;
 	}
 
-	.hamburger {
+	#other {
 		display: block;
-		text-align: right;
-		width: 100%;
-		right: 0;
-		top: 0;
+	}
+
+	.section , .content p {
+		display: none;
+	}
+
+	#innernav {
 		position: absolute;
+		width: 94%;
+		background-color: #666666;
+		display: none;
+
 	}
+	#innernav a {
 
-	.content {
-
-		width: 60%;
-	}
-
-	.subcontent {
-
+		text-align: center;
 		width: auto;
-		float: none;
-		border: none;;
+		padding: 1em;
+		border-bottom: solid 1px #ffffff;
+		border-right: none;
+		float: none;		
+		display: none;
 	}
+
+	#other img {
+
+		position: absolute;
+		top: 25px;
+		right: 25px;
+		display: block;
+	}
+
+	#other img:hover #innernav a {
+
+		display: block;
+	}
+	#subcontent div {
+
+		float: none;
+		margin-left: 200px;
+	}
+
+	#subcontent h1 {
+
+		text-align: center;
+		font-size: 25px;
+	}
+
+	.create button {
+
+		margin: 10px;
+		padding: 5px 25px 5px 25px;
+	}
+
+
+
 }
 
 
